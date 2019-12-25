@@ -7,4 +7,5 @@ Creating a new branch is quick.
 Creating a new branch is quick and simle.
 TEST NEW MERGE.
 Git is tree software.
+Git is a useful tools.
 
